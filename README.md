@@ -1,4 +1,9 @@
-## Hi there 👋
+## Jalo (Luis Aguero)
+ Software Engineer
+
+If you are using some of my software and run into any issues, please reach out to me at: jaloaguero@gmail.com.
+
+I will try my best to look at it, and fix whatever the issue may be.
 
 <!--
 **jaloaguero/jaloaguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
