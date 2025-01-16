@@ -1,5 +1,4 @@
 ## Jalo (Luis Aguero)
- Software Engineer
 
 If you are using some of my software and run into any issues, please reach out to me at: jaloaguero@gmail.com.
 
